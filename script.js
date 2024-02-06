@@ -16,4 +16,4 @@ const pocetPredstaveni = 15
 
 let prijem = listekPlnyCZK * pocetNavstevniku * pocetPredstaveni
 
-document.body.innerHTML += prijem 
+document.body.innerHTML += prijem + " Kc"
