@@ -10,3 +10,5 @@ Vypište do stránky i příjem divadla se započítanou slevou pro studenty. */
 
 const listekPlnyCZK = 12
 
+const pocetNavstevniku = 174
+
