@@ -14,4 +14,6 @@ const pocetNavstevniku = 174
 
 const pocetPredstaveni = 15
 
-const prijem = listekPlnyCZK * pocetNavstevniku * pocetPredstaveni
+let prijem = listekPlnyCZK * pocetNavstevniku * pocetPredstaveni
+
+document.body.innerHTML += prijem 
