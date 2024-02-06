@@ -12,3 +12,5 @@ const listekPlnyCZK = 12
 
 const pocetNavstevniku = 174
 
+const pocetPredstaveni = 15
+
