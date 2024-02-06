@@ -16,4 +16,5 @@ const pocetPredstaveni = 15
 
 let prijem = listekPlnyCZK * pocetNavstevniku * pocetPredstaveni
 
-document.body.innerHTML += prijem + " Eur"
+document.body.innerHTML += "Mesacny prijem divadla v pripade plneho vstupneho je " + prijem + " Eur"
+
